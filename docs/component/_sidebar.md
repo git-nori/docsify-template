@@ -1,3 +1,6 @@
 <!-- docs/_sidebar.md -->
 
-* [Home](../contents/home.md)
+* [TopPage](/)
+
+- Nested sidebar
+	* [Home](../contents/home.md)

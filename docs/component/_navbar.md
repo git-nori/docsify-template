@@ -2,4 +2,4 @@
 
 * [TopPage](/)
 * Nested  navbar
-	* [Home](/contents/home)
+	* [Home](/contents/home.md)

@@ -4,7 +4,7 @@
 ## SubTitle
 example SubTitle
 
-### Example plantUML
+## Example plantUML
 ```plantuml
 @startuml
 skinparam sequence {
@@ -22,9 +22,9 @@ Alice <-- Bob: another authentication Response
 @enduml
 ```
 
-### Example emoji
+## Example emoji
 :100:
 
-### Example flexible alerts
+## Example flexible alerts
 > [!NOTE]
 > An alert of type 'note' using global style 'callout'.
