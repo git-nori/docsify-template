@@ -11,7 +11,8 @@ npx docsify-cli init ./docs
 ```
 
 # ローカルでドキュメントサイト立ち上げ
-http://localhost:3000にアクセスすると、README.mdの内容が表示される
+http://localhost:3000  
+にアクセスすると、README.mdの内容が表示される
 ```javascript
 npx docsify-cli serve docs
 ```
